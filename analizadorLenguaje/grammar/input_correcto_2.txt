@@ -1,0 +1,5 @@
+función saludar(nombre) {
+  imprimir("Hola ");
+  imprimir(nombre);
+  devolver "Listo";
+}
