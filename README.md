@@ -32,7 +32,7 @@ En un archivo distinto, llamado interp.js se encuentra:
 Hay dos opciones de instralación:
 
 1- Descargando el archivo ZIP. Desde este repositorio, ir el botón verde que dice 'Code', y luego a 'Download ZIP'.
-Una vez ddescargado, se extraen los ficheros y ya se puede utilizar el analizador.
+Una vez descargado, se extraen los ficheros y ya se puede utilizar el analizador.
 
 2- Clonar este repositorio: git clone https://github.com/guada943/52122.git
 
