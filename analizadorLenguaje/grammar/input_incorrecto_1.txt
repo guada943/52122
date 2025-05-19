@@ -1,0 +1,2 @@
+variable nombre1 = "Hola"
+devolver "texto";
