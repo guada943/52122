@@ -30,6 +30,7 @@ En un archivo distinto, llamado interp.js se encuentra:
 
 # INSTALACIÓN
 Hay dos opciones de instralación:
+(Abrir la carpeta 52122 en ambos casos)
 
 1- Descargando el archivo ZIP. Desde este repositorio, ir el botón verde que dice 'Code', y luego a 'Download ZIP'.
 Una vez descargado, se extraen los ficheros y ya se puede utilizar el analizador.
