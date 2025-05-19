@@ -1,0 +1,1 @@
+función miFunción(123, "texto") { imprimir("hola"); }
