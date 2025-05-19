@@ -80,10 +80,8 @@ En el caso de haberlo clonado y no descargado como ZIP, se abrirá la carpeta  d
  	-se abre el archivo index.js
  	
   	-Se abre la terminal (ctrl+ñ)
-
-	-Se ejecuta el comando: cd grammar(solo una vez para poder usar los otros comandos)
   	
-   	-Se ejecuta el  comando: node index.js (no olvidad hacer click en enter): Esto realiza el análisis léxico y sintáctico, muestra la tabla de tokens y genera el árbol de análisis sintáctico.
+   	-Se ejecuta el  comando: node analizadorLenguaje/grammar/index.js (no olvidad hacer click en enter): Esto realiza el análisis léxico y sintáctico, muestra la tabla de tokens y genera el árbol de análisis sintáctico.
    
 ![alt text](image.png)
 ![alt text](image-2.png)
@@ -94,14 +92,14 @@ En el caso de haberlo clonado y no descargado como ZIP, se abrirá la carpeta  d
  	
   	-Se abre la terminal (ctrl+ñ)
   	
-   	-Se ejecuta el  comando: node interp.js (no olvidad hacer click en enter): Esto traduce el código fuente al lenguaje JavaScript y lo ejecuta como si fuera un intérprete real.
+   	-Se ejecuta el  comando: node analizadorLenguaje/grammar/interp.js (no olvidad hacer click en enter): Esto traduce el código fuente al lenguaje JavaScript y lo ejecuta como si fuera un intérprete real.
 
 ![alt text](image-4.png)
 No olide que parar poder ejecutar correctamente los archivos en necesario que los comandos ingresados sean:
 	
- 	node index.js
+ 	node analizadorLenguaje/grammar/index.js
 
-	node interp.js
+	node analizadorLenguaje/grammar/interp.js
 
 Recuerde, que este procedimiento lo puede hacer con cualquiera de los archivos de texto que contienen distintos inputs. SIEMPRE que copie y pegue alguno de ellos en el archivo input.txt debe actualizarlo con ctrl+s para que ejecuten correctamente.
 
